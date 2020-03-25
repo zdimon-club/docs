@@ -2,7 +2,7 @@
 
 [Дока](https://www.sphinx-doc.org/en/master/)
 
-	
+
 	
 ## Сделаем ВО.
 
@@ -97,6 +97,11 @@
 
 
 ### PlantUML
+
+
+Требуется установка graphviz
+
+https://graphviz.gitlab.io/_pages/Download/Download_windows.html - Windows
 
 	https://www.java.com/ru/download/manual.jsp
 	

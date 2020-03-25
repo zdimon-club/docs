@@ -21,6 +21,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. uml:: modules/external.uml
+
 .. uml::
 
    @startuml

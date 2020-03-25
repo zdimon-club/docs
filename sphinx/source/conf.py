@@ -32,7 +32,7 @@ extensions = [
     'sphinx.ext.autodoc'
 ]
 
-plantuml = 'java -jar D:\www\club\docs\lib\plantuml.jar'
+plantuml = 'java -jar D:\www\club\docs\sphinx\lib\plantuml.jar'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

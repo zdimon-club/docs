@@ -18,6 +18,5 @@ Hello3
         is_auth: false,
         user: {}
     };
-
-
-.. image:: ../images/design/chat.png
+    
+.. uml:: external.uml
